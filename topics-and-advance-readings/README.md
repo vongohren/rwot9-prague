@@ -41,11 +41,10 @@ really, read as much as you can!)
 * [Rubrics for Decentralization of DID Methods Creative Brief](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/rubrics.md)
   * By [Joe Andrieu](mailto:joe@legreq.com), [Amy G](mailto:amy@rhiaro.co.uk), [Joachim Lohkamp](mailto:joachim@jolocom.com), [=Drummond Reed](mailto:drummond.reed@evernym.com), [Markus Sabadello](mailto:markus@danubetech.com), [Oliver Terbu](mailto:oliver.terbu@consensys.net), [Kai Wagner](mailto:kai@jolocom.com)
   * "The Rubrics for Decentralization of DID Methods document (the Document) will help people evaluate real or potential DID Methods. This document outlines the collaborative aspirations of the Document’s editors."
-  * #did #rubrics #decentralization
+  * #did #rubrics #decentralization ide
 
 ### Secure Storage
-
-* [Datashards: secure storage primitives for the web](./datashards-rationale.md)
+ * [Datashards: secure storage primitives for the web](./datashards-rationale.md)
 * By [Christopher Lemmer Webber](https://dustycloud.org/), with help from [Serge Wroclawski](https://emacsen.net/@emacsen) and [Tom Marble](http://info9.net/wiki/tmarble/)
 * "Over the last year we have been working on a general mechanism for URIs representing private, encrypted storage that can live in a variety of locations.  We call this system 'Datashards'."
 * #storage #datashards #cas
@@ -54,14 +53,15 @@ really, read as much as you can!)
 * [Combining Verifiable Credentials and Zero Knowledge Proof Systems](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-credentials-and-zero-knowledge-proof-systems.md)
   * by Yancy Ribbens
   * Anonymous credentials enable a holder (prover) to reveal select information to a verifier during the verification process.  In order to build anonymous credential systems, ZKPs can be combined with Verifiable Credentials to enhance user privacy.  This is a proposal to develop library support for Verifiable Credentials and recommend ZKP formats for different use cases and credential attributes.
-* [KERI for a Universal DKMI](https://github.com/SmithSamuelM/rwot9-prague/blob/master/topics-and-advance-readings/KERI-Universal-DKMI.md)
+ * [KERI for a Universal DKMI](https://github.com/SmithSamuelM/rwot9-prague/blob/master/topics-and-advance-readings/KERI-Universal-DKMI.md)
 * [Decentralising Opencerts](https://github.com/waichung/rwot9-prague/blob/master/topics-and-advance-readings/Decentralising%20OpenCerts%20v2.md)
   * by Bill Claxton and Wong Wai Chung
   * "In March 2018, Singapore's can-do government introduced the OpenCerts solution for issuing academic certificates linked to the Ethereum public blockchain.  We believe that the code and schema provided by OpenCerts can be the foundation of a verifiable digital credentials issuance mechanism.  But several changes have to be made in the implementation, to make it more decentralised and reach adoption at scale."
   * #privacy #identity #verifiability #centralisation #singapore
 * [Secure Data Hubs: Encrypted Storage for the Web](./secure-data-hubs.md)
   * by Manu Sporny, Dave Longley, and Amy Guy
-  * "The Secure Data Hubs specification describes a privacy-respecting mechanism for storing, mirroring, indexing, sharing, and retrieving encrypted data at a storage provider."
+  * "The Secure Data Hubs specification describes a privacy-respecting mechanism for storing, mirroring,### Usability/documentation
+ * [Bare minimum agent for indexing, sharing, and retrieving encrypted data at a storage provider."ntity](./Bare-minimum-agent.md)
 
 ### ActivityPub / Spam
 
@@ -96,4 +96,17 @@ really, read as much as you can!)
 * [Secure Data Hubs: Encrypted Storage for the Web](./secure-data-hubs.md)
 
 
+Web of trust alternatives
 
+* [Decentralized Identity as a Meta Platform](https://github.com/SmithSamuelM/rwot9-prague/blob/master/topics-and-advance-readings/Decentralized-Identity-Meta-platform.md)
+* [Firefly Trust Sync](./firefly-trust-sync.md)
+
+## Alphabetical Listing
+
+ * [Bare minimum agent for identity](./Bare-minimum-agent.md)
+* [Decentralising Opencerts](https://github.com/waichung/rwot9-prague/blob/master/topics-and-advance-readings/Decentralising%20OpenCerts%20v2.md)
+* [Firefly Trust Sync](https://github.com/tmarble/rwot9-prague/blob/master/topics-and-advance-readings//firefly-trust-sync.md)
+* [KERI for a Universal DKMI](https://github.com/SmithSamuelM/rwot9-prague/blob/master/topics-and-advance-readings/KERI-Universal-DKMI.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk4ODkwMDgxMF19
+-->
